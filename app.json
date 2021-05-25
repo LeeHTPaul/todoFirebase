@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pcmob3-project3",
-    "slug": "pcmob3-project3",
+    "name": "todo-firebase",
+    "slug": "todo-firebase",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
