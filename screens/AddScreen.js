@@ -9,7 +9,7 @@ import {
 
 export default function AddScreen({ navigation }) {
   const [text, setText] = useState("");
-
+console.log("add screen");
   return (
     <View style={[styles.container, { backgroundColor: "white" }]}>
       <Text style={{ fontSize: 24 }}>What do you want to add?</Text>
